@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW2_ButtonEvent", "HW2_ButtonEvent\HW2_ButtonEvent.csproj", "{1F792151-7516-4015-84ED-DABF340DB033}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F792151-7516-4015-84ED-DABF340DB033}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1F792151-7516-4015-84ED-DABF340DB033}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1F792151-7516-4015-84ED-DABF340DB033}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1F792151-7516-4015-84ED-DABF340DB033}.Release|iPhone.Build.0 = Release|iPhone
+		{1F792151-7516-4015-84ED-DABF340DB033}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1F792151-7516-4015-84ED-DABF340DB033}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{1F792151-7516-4015-84ED-DABF340DB033}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1F792151-7516-4015-84ED-DABF340DB033}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
